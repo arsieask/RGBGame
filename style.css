@@ -5,12 +5,16 @@ body {
 .square {
     width: 30%;
     background-color: blueviolet;
-    padding: 30%;
+    padding-bottom: 30%;
     float: left;
     margin: 1.66%;
 }
 
 #container {
     margin: 0 auto;
-    max-width: 600;
+    max-width: 600px;
+}
+
+h1 {
+    color: whitesmoke;
 }
